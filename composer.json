@@ -40,8 +40,7 @@
         ],
         "psr-0": {
             "Authority": "app/",
-            "TvDb": "app/",
-            "Cartalyst\\SentrySocial": "app/SentrySocial/src/"
+            "TvDb": "app/"
         }
     },
     "scripts": {
